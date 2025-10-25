@@ -9,3 +9,14 @@
 // 14
 // FizzBuzz
 // ...
+for (let i = 1; i <= 100; i++) { 
+    if (i % 3 === 0 && i % 5 === 0) { // if i is divisible by both 3 and 5 it will display FizzBuzz
+        console.log ("FizzBuzz")
+    } else if (i % 3 === 0) { // if i is divisible by 3 it will display Fizz
+        console.log ("Fizz")
+    } else if (i % 5 === 0) { // if i is divisible by 5 it will display Buzz
+        console.log ("Buzz")
+    } else {
+        console.log (i) // if i is not divisible by 3 or 5 it will display the number 
+    }
+}

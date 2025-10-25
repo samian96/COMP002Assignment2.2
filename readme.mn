@@ -3,3 +3,6 @@ Purpose: To demonstrate our understanding of Program structure
 ChangeLog:
 - Update 1.
 Added readme file
+- Update 2.
+Added if if else else to script2
+numbers divisible by 3 display Fizz, numbers divisible by 5 display Buzz, and divisible by both 3 and 5 display FizzBuzz
