@@ -10,3 +10,6 @@ numbers divisible by 3 display Fizz, numbers divisible by 5 display Buzz, and di
 added for while loop to add a value to each line until it equals the set number 
 added for while loop to subtract a value from each line until it is equal to set number
 added developers notes
+- update 4.
+added if else loop to create an 8x8 pattern of hashtags to resemble a chess board
+added developers notes
