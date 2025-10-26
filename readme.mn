@@ -6,3 +6,7 @@ Added readme file
 - Update 2.
 Added if if else else to script2
 numbers divisible by 3 display Fizz, numbers divisible by 5 display Buzz, and divisible by both 3 and 5 display FizzBuzz
+- Update 3.
+added for while loop to add a value to each line until it equals the set number 
+added for while loop to subtract a value from each line until it is equal to set number
+added developers notes
